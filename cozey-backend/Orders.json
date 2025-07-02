@@ -1,0 +1,205 @@
+[
+	{
+		"Order_id": 1,
+		"Order_Total": 1070,
+		"Order_Date": "29/06/2025",
+		"Shipping_Address": "123 somestreet, Qc, A1B2C3",
+		"Customer_Name": "John Doe",
+		"Customer_Email": "johndoe@gmail.com",
+		"Line_Items": [
+			{
+				"Line_item_id": 1,
+				"Product_id": 1234,
+				"Product_Name": "Valentines Box",
+				"Price": 90,
+				"Quantity": 5
+			},
+			{
+				"Line_item_id": 2,
+				"Product_id": 1235,
+				"Product_Name": "Birthday Box",
+				"Price": 110,
+				"Quantity": 2
+			},
+			{
+				"Line_item_id": 3,
+				"Product_id": 1236,
+				"Product_Name": "Client Gift Box",
+				"Price": 100,
+				"Quantity": 4
+			}
+		]
+	},
+	{
+		"Order_id": 2,
+		"Order_Total": 1860,
+		"Order_Date": "30/06/2025",
+		"Shipping_Address": "123 somestreet, Qc, A1B2C3",
+		"Customer_Name": "John Doe 2",
+		"Customer_Email": "johndoe@gmail.com",
+		"Line_Items": [
+			{
+				"Line_item_id": 1,
+				"Product_id": 1234,
+				"Product_Name": "Valentines Box",
+				"Price": 90,
+				"Quantity": 10
+			},
+			{
+				"Line_item_id": 2,
+				"Product_id": 1235,
+				"Product_Name": "Birthday Box",
+				"Price": 110,
+				"Quantity": 6
+			},
+			{
+				"Line_item_id": 3,
+				"Product_id": 1236,
+				"Product_Name": "Client Gift Box",
+				"Price": 100,
+				"Quantity": 3
+			}
+		]
+	},
+	{
+		"Order_id": 3,
+		"Order_Total": 30,
+		"Order_Date": "27/06/2025",
+		"Shipping_Address": "123 somestreet, Qc, A1B2C3",
+		"Customer_Name": "John Doe 2",
+		"Customer_Email": "johndoe@gmail.com",
+		"Line_Items": [
+			{
+				"Line_item_id": 1,
+				"Product_id": 1234,
+				"Product_Name": "Valentines Box",
+				"Price": 90,
+				"Quantity": 5
+			},
+			{
+				"Line_item_id": 2,
+				"Product_id": 1235,
+				"Product_Name": "Birthday Box",
+				"Price": 110,
+				"Quantity": 11
+			},
+			{
+				"Line_item_id": 3,
+				"Product_id": 1236,
+				"Product_Name": "Client Gift Box",
+				"Price": 100,
+				"Quantity": 7
+			}
+		]
+	},
+	{
+		"Order_id": 4,
+		"Order_Total": 610,
+		"Order_Date": "28/06/2025",
+		"Shipping_Address": "456 Maple Ave, ON, B4C5D6",
+		"Customer_Name": "Aisha Khan",
+		"Customer_Email": "aisha.khan@example.com",
+		"Line_Items": [
+			{
+				"Line_item_id": 1,
+				"Product_id": 1234,
+				"Product_Name": "Valentines Box",
+				"Price": 90,
+				"Quantity": 2
+			},
+			{
+				"Line_item_id": 2,
+				"Product_id": 1235,
+				"Product_Name": "Birthday Box",
+				"Price": 110,
+				"Quantity": 3
+			},
+			{
+				"Line_item_id": 3,
+				"Product_id": 1236,
+				"Product_Name": "Client Gift Box",
+				"Price": 100,
+				"Quantity": 1
+			}
+		]
+	},
+	{
+		"Order_id": 5,
+		"Order_Total": 1370,
+		"Order_Date": "01/07/2025",
+		"Shipping_Address": "789 Pine Rd, QC, C7D8E9",
+		"Customer_Name": "Brandon Lee",
+		"Customer_Email": "brandon.lee@example.com",
+		"Line_Items": [
+			{
+				"Line_item_id": 1,
+				"Product_id": 1234,
+				"Product_Name": "Valentines Box",
+				"Price": 90,
+				"Quantity": 4
+			},
+			{
+				"Line_item_id": 2,
+				"Product_id": 1235,
+				"Product_Name": "Birthday Box",
+				"Price": 110,
+				"Quantity": 5
+			},
+			{
+				"Line_item_id": 3,
+				"Product_id": 1236,
+				"Product_Name": "Client Gift Box",
+				"Price": 100,
+				"Quantity": 2
+			}
+		]
+	},
+	{
+		"Order_id": 6,
+		"Order_Total": 960,
+		"Order_Date": "30/06/2025",
+		"Shipping_Address": "321 Oak St, QC, Z1Y2X3",
+		"Customer_Name": "Clara Nguyen",
+		"Customer_Email": "clara.nguyen@example.com",
+		"Line_Items": [
+			{
+				"Line_item_id": 1,
+				"Product_id": 1234,
+				"Product_Name": "Valentines Box",
+				"Price": 90,
+				"Quantity": 3
+			},
+			{
+				"Line_item_id": 2,
+				"Product_id": 1236,
+				"Product_Name": "Client Gift Box",
+				"Price": 100,
+				"Quantity": 6
+			}
+		]
+	},
+	{
+		"Order_id": 7,
+		"Order_Total": 2000,
+		"Order_Date": "27/06/2025",
+		"Shipping_Address": "654 Spruce Ln, QC, Q9R8S7",
+		"Customer_Name": "Devon Castillo",
+		"Customer_Email": "devon.castillo@example.com",
+		"Line_Items": [
+			{
+				"Line_item_id": 1,
+				"Product_id": 1235,
+				"Product_Name": "Birthday Box",
+				"Price": 110,
+				"Quantity": 8
+			},
+			{
+				"Line_item_id": 2,
+				"Product_id": 1236,
+				"Product_Name": "Client Gift Box",
+				"Price": 100,
+				"Quantity": 12
+			}
+		]
+	}
+]
